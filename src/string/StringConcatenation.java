@@ -1,5 +1,14 @@
+package string;
+
 public class StringConcatenation {
     public static void main(String[] args) {
+
+        //concat() is an instance method of the String class that allows you to
+        // concatenate strings, but it isn't the only way we can do this.
+        // We can concatenate String
+        // Using .concat(), the concatenation operator, StringBuilder class, or
+        // StringBuffer class are all different ways we can concatenate strings.
+
         String firstName = "Shelly";
         String lastName = "Parker";
 

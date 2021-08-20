@@ -1,3 +1,5 @@
+package string;
+
 public class StringEquality {
     public static void main(String[] args) {
         String literalA = "abc";

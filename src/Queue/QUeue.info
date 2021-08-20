@@ -1,0 +1,8 @@
+- An ordered list list of object where elements are inserted at the end and remove from the beginning
+- FIFO: First in first out
+- java.util.Queue interface
+- You must instantiate a concrete implementation of an interface in order to use it.
+- we can use linked list or pritotery que
+- linked list is the standard queue implementation
+- queues are useful for storing the order of precess
+

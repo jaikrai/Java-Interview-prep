@@ -1,3 +1,4 @@
+package OOPS.AbstractionEx;
 
 public abstract class AbstractTableManager<D> {
 

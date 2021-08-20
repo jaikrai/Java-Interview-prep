@@ -1,3 +1,5 @@
+package string;
+
 import java.util.Arrays;
 
 public class StringFunction {
@@ -11,6 +13,11 @@ public class StringFunction {
         // \\ this will help to find out sentences
         String[] sentences = text.split("\\. ");
         System.out.println("The text has " + sentences.length + " sentences.");
+
+        // String objects with the same value refer to different objects because they are created as
+        // separate objects with the String constructor.
+        //The trim method can help normalize your String data by removing the annoying spaces that might
+        // live at the front and back of your String.
 
         // |- helps to find out total number of words in the text
         String [] words = text.split(" |-");

@@ -1,0 +1,9 @@
+ - Java provides Hashtable, hashset and hashMap build-in data structures
+ - generally you will use a hashMap because it provides the most flexibility and best performance
+ - Hash maps use key-value pairs and hashing function to store organize their data
+ - A hashing function maps a key or objet to specific hash
+ - hash determines where the object is stored
+ - As long as you have the key, retrieving the object is fast
+
+
+

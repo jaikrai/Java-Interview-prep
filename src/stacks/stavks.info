@@ -1,0 +1,6 @@
+
+A stack is an ordered list of object inserted and removed following a last in first out(LIFO) policy
+- Insert item using push() method
+- delete items using pop)_ method
+- stacks useful when you need to reverse something or keep track of state
+

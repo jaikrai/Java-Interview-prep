@@ -1,3 +1,4 @@
+package OOPS.AbstractionEx;
 
 public class UserTableManager extends AbstractTableManager<UserData> {
 

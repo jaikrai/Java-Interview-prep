@@ -1,4 +1,4 @@
-package interviewQuestion;
+package interviewQuestion.fibonacci;
 
 public class FibonacciSequence {
     public static int fib(int n){
@@ -11,6 +11,6 @@ public class FibonacciSequence {
         }
     }
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println(fib(5));
     }
 }
