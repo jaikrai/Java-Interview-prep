@@ -3,7 +3,7 @@ package interviewQuestion.fibonacci;
 public class FibonacciSequence {
     public static int fib(int n){
         // base case
-        if (n == 1 || n== 2 ){
+        if (n == 1 || n == 2 ){
             return 1;
         }
         else {
